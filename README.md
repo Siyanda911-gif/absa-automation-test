@@ -1,1 +1,0 @@
-# absa-automation-test
